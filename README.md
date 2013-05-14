@@ -8,4 +8,5 @@ Current functionality:
 Nice to have functionality (for further improvement):
 - Refreshing tweets automatically/pulling down the table listview
 - Adding custom search
+- Doing checks when replacing the cell images with the actual ID
 
